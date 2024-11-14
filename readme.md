@@ -82,6 +82,3 @@ Contributi, suggerimenti e segnalazioni di bug sono benvenuti! Sentiti libero di
 
 Questo progetto è distribuito sotto la licenza MIT. Consulta il file `LICENSE` per maggiori dettagli.
 
-## Autore
-
-[Il tuo Nome]
